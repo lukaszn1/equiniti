@@ -6,20 +6,16 @@ using Interview.Controllers;
 namespace Interview.Tests.Controllers
 {
     [TestClass]
-    public class HomeControllerTest
+    public class OperationsControllerTest
     {
         [TestMethod]
-        public void Index()
+        public void GetAll_ForTypicallCall_ReturnsNotNullResult()
         {
             // Arrange
-            HomeController controller = new HomeController();
 
             // Act
-            ViewResult result = controller.Index() as ViewResult;
 
             // Assert
-            Assert.IsNotNull(result);
-            Assert.AreEqual("Home Page", result.ViewBag.Title);
         }
     }
 }
