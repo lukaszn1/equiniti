@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Interview
+/Interview/bin
+/Interview/obj/Debug
+/Interview/Interview.csproj.user
+/packages
+/Interview.Tests/bin/Debug
+/Interview.Tests/obj/Debug/Interview.Tests.pdb
+/Interview.Tests/obj/Debug/Interview.Tests.dll
+/Interview.Tests/obj/Debug/Interview.Tests.csproj.FileListAbsolute.txt
+/Interview.Tests/obj/Debug/Interview.Tests.csproj.CopyComplete
+/Interview.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
