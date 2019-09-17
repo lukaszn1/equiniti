@@ -13,3 +13,12 @@
 /Interview.Tests/obj/Debug/Interview.Tests.csproj.FileListAbsolute.txt
 /Interview.Tests/obj/Debug/Interview.Tests.csproj.CopyComplete
 /Interview.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/.vs
+/Interview.Library.Tests/bin/Debug
+/Interview.Library.Tests/obj
+/Interview.Models/bin/Debug
+/Interview.Models/obj
+/Interview.Services/bin/Debug
+/Interview.Services/obj
+/Interview.Services.Tests/bin/Debug
+/Interview.Services.Tests/obj
