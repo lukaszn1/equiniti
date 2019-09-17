@@ -10,10 +10,8 @@ namespace Interview.Models.Operations
 
         public int ApplicationId { get; set; }
 
-        [JsonConverter(typeof(StringEnumConverter))]
         public OperationType Type { get; set; }
 
-        [JsonConverter(typeof(StringEnumConverter))]
         public OperationSummary Summary { get; set; }
 
         public double Amount { get; set; }
